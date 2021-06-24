@@ -1,4 +1,10 @@
-### Hi there 👋
+I'm a software engineer with a long history of frontend and backend development.
+
+My current focus in professional life is Java and Reactive Systems using Java.
+
+I do mobile apps with Flutter and web apps with Vue in my free time as hobby.
+
+Get in touch with me on https://naghavi.me
 
 <!--
 **mohamnag/mohamnag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
